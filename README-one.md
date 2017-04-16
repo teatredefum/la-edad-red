@@ -1,1 +1,3 @@
 Cuando se reunieron las Cortes Generales el 23 de mayo de 1923, el hemiciclo estaba formado por veintidós agrupaciones distintas: demócratas, liberales, izquierdistas, liberales, liberales agrarios, reformistas, nicetistas, conservadores, ciervistas, mauristas, regionalistas, republicanos, socialistas, unionistas monárquicos, nacionalistas catalanes, nacionalistas vascos, integrantes de la Liga Monárquica Vizcaína, tradicionalistas carlistas, católicos, clases mercantiles, agrarios, integristas e independientes.
+
+Por obligación, algunos más interesados que otros, todos andaban siguiendo la discusión de las mancomunidades, un programa presentado por José Canalejas con el fin de solventar el problema de la configuración territorial española.
