@@ -31,10 +31,10 @@ Años 2018-19, se buscan autores. Razón aquí.
 Finales 2020, se busca editor. Razón aquí.
 
 ## Prevista ensayos Teatre de fum
-2020-2, se busca director escçenico. Razón aquí.
+2020-2, se busca director escénico. Razón aquí.
 
 # la-edad-red
-Me senté a escribir esta novelita el viernes 14 de abril de 2017. Será el nido para que una obra de teatro corta (45 minutos florezca y de guión para escena). Considero, remitiéndome a los hechos, que la Edad Contemporánea se ha terminado. Las revoluciones liberales que dieron comienzo a esta edad (sobre la Edad Moderna del Antiguo Mundo feudal y de férulas) daban tope con la bautizada 'Caída del Muro de Berlín' en 1989.
+Me senté a escribir esta novelita el viernes 14 de abril de 2017. Dos décadas de documentación habían llegado a su hez. Será el nido para que una obra de teatro corta (45 minutos) florezca y dé guión para escena. Considero, remitiéndome a los hechos, que la Edad Contemporánea se ha terminado. Las revoluciones liberales que dieron comienzo a esta edad (sobre la Edad Moderna del Antiguo Mundo feudal y de férulas) daban tope con la bautizada 'Caída del Muro de Berlín' en 1989. Y, nosotros, testigo de excepción.
 
 Durante muchos años me he considerado un posmoderno. Pero ahora me doy cuenta de que, en realidad, soy un poscontemporáneo. Los atentados a las Torres Gemelas del 11-S 2001 ponen fin a un tiempo de hegemonía E.E.U.U.; sin duda, la época quedará marcada en el calendario. No sabemos si el imperio se dividirá en dos como sucedió con el Imperio romano de occidente y de oriente. Republicanos y demócratas han representado a finales del año pasado la elección de un *business-man*, *self-made*, de éxito y pompa, casado con una importante 'influencer' en la zona imagológica de la moda y los cánones de belleza. Veníamos del primer presidente no W.A.S.P..
 
