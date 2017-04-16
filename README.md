@@ -1,3 +1,33 @@
+Esto es un proyecto literario para:
+
+- TEATRE DE FUM sala #mchd 
+
+## En el contexto de:
+
+- Obras de representación poscontemporáneas. Panecastia y vanguardia de escritura. Duración corta (menos 45 minutos). Escenografía estática (máximo tres cambios de fondo). Elenco escueto (máximo nueve actores). El texto debe presentar una escritura de vanguardia y panecástica.
+
+## Consiste en:
+
+- Consiste en una novela en red. El escritor hace periodismo y divulgación científica poniendo al espectador al corriente de la época en que vive. Una nueva era.
+
+- La confección de los materiales se hará en un repositorio git de modo que cualquier participante pueda asistir al avance de la escritura y añadir sus intervenciones ya sean puntuales o continuadas. 
+
+- Se trata de experimentar con las opciones de participación y autorización de contenidos vasculando entre lo público y lo privado (ajustando la visibilidad del proyecto), lo lego y lo técnico (ajustando entre zonas de código y zonas 'en tiempo real').
+
+## Materia y sinapsi:
+
+- Obra de ficción. Ucronía poscontemporánea del mito utópico. Historia de la Aldea Global. Choque/alianza de civilizaciones.
+- Ver abajo resumen 'la-edad-red'.
+
+## Previsto desarrollo:
+Años 2018-19, se buscan autores. Razón aquí.
+
+## Previstas galeradas:
+Finales 2020, se busca editor. Razón aquí.
+
+## Prevista ensayos Teatre de fum
+2020-2, se busca director escçenico. Razón aquí.
+
 # la-edad-red
 Me senté a escribir esta novelita el viernes 14 de abril de 2017. Considero, remitiéndome a los hechos, que la Edad Contemporánea se ha terminado. Las revoluciones liberales que dieron comienzo a esta edad, sobre la Edad Moderna del Antiguo Mundo feudal y de férulas daban tope con la bautizada 'Caída del Muro de Berlín' en 1989.
 
@@ -53,3 +83,24 @@ Idiomas
 - [ ] Ruso
 - [ ] Japonés
 - [ ] Panyabí
+
+# Legal
+
+## Presupuesto
+### Materiales y usufructo
+- Hosting NodeJS/MongoDB
+- Github.com account
+### Crowfunding
+- 0 €.
+### Mecenas
+- 0 €.
+### Capital institucional
+- 0 €.
+### Capital privado
+- 0 €.
+### Otros capitales
+#### Bitcoin
+- 0 Btc
+#### Faircoin
+- 0 fairs
+
