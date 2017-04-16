@@ -1,3 +1,8 @@
+Versión galeradas (en proceso)
+https://teatredefum.github.io/la-edad-red/
+
+---------------------
+
 Esto es un proyecto literario para:
 
 - TEATRE DE FUM sala #mchd 
