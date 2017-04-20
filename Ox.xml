@@ -1,52 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>                     
 
-<que>
-	<principal>Se reunieron las Cortes Generales.</principal>
-	<secundario>Zamora pronunció un famoso discurso en el teatro Apolo de Valencia</secundario>
-</que> 
-
-<cuando>
-	<principal>El 23 de mayo de 1923</principal> 
-	<secundario>El 13 de abril de 1930</secundario>
-</cuando>
-
-<quien>
-	<principal>el hemiciclo estaba formado por veintidós agrupaciones distintas</principal>
-	<secundario>Cuando el general Primo de Rivera ya había dimitido de su cargo y había sido sustituido por el general Dámaso Berenguer, que tenía el encargo de Alfonso XIII de volver al régimen constitucional de 1876, Alcalá-Zamora.</secundario>
-</quien>
-
-<contexto>Por obligación, algunos más interesados que otros, todos andaban siguiendo la discusión de las mancomunidades, un programa presentado por José Canalejas con el fin de solventar el problema de la configuración territorial española.</contexto>
-
-<como>
-	<secundario>pronunció un famoso discurso en el teatro Apolo de Valencia en el que retiró su apoyo y confianza a la monarquía, reivindicando una república basada en un modelo similar a la Tercera República Francesa, esto es, apoyada en las clases medias y en los intelectuales.</secundario>
-</como>
-
-<referencias>
-	<principal>
-		<agrupaciones>
-			<grupo>demócratas</grupo>
-			<grupo>liberales</grupo> 
-			<grupo>izquierdistas</grupo> 
-			<grupo>liberales</grupo> 
-			<grupo>liberales agrarios</grupo> 
-			<grupo>reformistas</grupo> 
-			<grupo>nicetistas</grupo>
-			<grupo>conservadores</grupo> 
-			<grupo>ciervistas</grupo> 
-			<grupo>mauristas</grupo>
-			<grupo>regionalistas</grupo> 
-			<grupo>republicanos</grupo> 
-			<grupo>socialistas</grupo>
-			<grupo>unionistas monárquicos</grupo> 
-			<grupo>nacionalistas catalanes</grupo> 
-			<grupo>nacionalistas vascos</grupo>
-			<grupo>integrantes de la Liga Monárquica Vizcaína</grupo> 
-			<grupo>tradicionalistas carlistas</grupo> 
-			<grupo>católicos</grupo> 
-			<grupo>clases mercantiles</grupo> 
-			<grupo>agrarios</grupo> 
-			<grupo>integristas</grupo> 
-			<grupo>independientes</grupo>
-		</agrupaciones>
-	</principal>
-</referencias>
+	<ox>
+	<que>
+		<principal>Se reunieron las Cortes Generales.</principal>
+		<secundario>Zamora pronunció un famoso discurso en el teatro Apolo de Valencia</secundario>
+	</que> 
+	<cuando>
+		<principal>El 23 de mayo de 1923</principal> 
+		<secundario>El 13 de abril de 1930</secundario>
+	</cuando>
+	<quien>
+		<principal>el hemiciclo estaba formado por veintidós agrupaciones distintas</principal>
+		<secundario>Cuando el general Primo de Rivera ya había dimitido de su cargo y había sido sustituido por el general Dámaso Berenguer, que tenía el encargo de Alfonso XIII de volver al régimen constitucional de 1876, Alcalá-Zamora.</secundario>
+	</quien>
+	<contexto>Por obligación, algunos más interesados que otros, todos andaban siguiendo la discusión de las mancomunidades, un programa presentado por José Canalejas con el fin de solventar el problema de la configuración territorial española.</contexto>
+	<como>
+		<secundario>pronunció un famoso discurso en el teatro Apolo de Valencia en el que retiró su apoyo y confianza a la monarquía, reivindicando una república basada en un modelo similar a la Tercera República Francesa, esto es, apoyada en las clases medias y en los intelectuales.</secundario>
+	</como>
+	<referencias>
+		<principal>
+			<agrupaciones>
+				<grupo>demócratas</grupo>
+				<grupo>liberales</grupo> 
+				<grupo>izquierdistas</grupo> 
+				<grupo>liberales</grupo> 
+				<grupo>liberales agrarios</grupo> 
+				<grupo>reformistas</grupo> 
+				<grupo>nicetistas</grupo>
+				<grupo>conservadores</grupo> 
+				<grupo>ciervistas</grupo> 
+				<grupo>mauristas</grupo>
+				<grupo>regionalistas</grupo> 
+				<grupo>republicanos</grupo> 
+				<grupo>socialistas</grupo>
+				<grupo>unionistas monárquicos</grupo> 
+				<grupo>nacionalistas catalanes</grupo> 
+				<grupo>nacionalistas vascos</grupo>
+				<grupo>integrantes de la Liga Monárquica Vizcaína</grupo> 
+				<grupo>tradicionalistas carlistas</grupo> 
+				<grupo>católicos</grupo> 
+				<grupo>clases mercantiles</grupo> 
+				<grupo>agrarios</grupo> 
+				<grupo>integristas</grupo> 
+				<grupo>independientes</grupo>
+			</agrupaciones>
+		</principal>
+	</referencias>
+</ox>
