@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:chapter="https://github.com/teatredefum/la-edad-red/tree/chapter-one/stories/"> 
+
+<rdf:Description
+ rdf:about="https://github.com/teatredefum/la-edad-red/tree/chapter-one/aleph">
+  <chapter:file>Aleph</chapter:file>
+  <chapter:editor>teatre de fum</chapter:editor>
+  <chapter:opera>la-edad-red</chapter:opera>
+  <chapter:type>json</chapter:type>
+  <chapter:year>2017</chapter:year>
+</rdf:Description>
+
+<rdf:Description
+ rdf:about="https://github.com/teatredefum/la-edad-red/tree/chapter-one/ox">
+  <chapter:file>Ox</chapter:file>
+  <chapter:editor>teatre de fum</chapter:editor>
+  <chapter:opera>la-edad-red</chapter:opera>
+  <chapter:type>xml</chapter:type>
+  <chapter:year>2017</chapter:year>
+</rdf:Description>
+
+</rdf:RDF>   
