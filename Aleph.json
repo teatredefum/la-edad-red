@@ -4,7 +4,7 @@
  
 	"fisonomía": {
 
-		"mormología": "fractal",
+		"morfología": "fractal",
  
 		"constantes": {
 			
@@ -21,11 +21,11 @@
  
 	"contexto": {
 
-		"obra" : "la-edad-red",
+		"obra": "la-edad-red",
  
-		"referencia" : "Ensayo novelado sobre la w.w.w, red de redes global", 
+		"referencia": "Ensayo novelado sobre la w.w.w, red de redes global", 
 
-		"repositorio" : "github.com/teatredefum/tree/chapter-one" 
+		"repositorio": "github.com/teatredefum/tree/chapter-one" 
 	
 	},
 
