@@ -11,9 +11,11 @@
 			"punto": "suceso",
 			"línea": "intervalo",
 			"velocidad": "momentum",
-			"aceleración": "quadrimomentum",
+			"aceleración": "quadrimomentum"
 
-		},
+		}
+		
+	},
 
 	"instancia": "web neorealismo mágico",
  
@@ -25,7 +27,7 @@
 
 		"repositorio" : "github.com/teatredefum/tree/chapter-one" 
 	
-	}
+	},
 
 	"desarrollo": {
 
@@ -36,7 +38,7 @@
 			"punto": "suceso",
 			"línea": "",
 			"velocidad": "",
-			"aceleración": "",
+			"aceleración": ""
 
 		}, 
 
@@ -45,7 +47,7 @@
 			"punto": "",
 			"línea": "intervalo",
 			"velocidad": "",
-			"aceleración": "",
+			"aceleración": ""
 
 		},
  
@@ -54,7 +56,7 @@
 			"punto": "",
 			"línea": "",
 			"velocidad": "momentum",
-			"aceleración": "",
+			"aceleración": ""
 
 		} 
 
@@ -63,7 +65,8 @@
 			"punto": "",
 			"línea": "",
 			"velocidad": "",
-			"aceleración": "quadrimomentum",
+			"aceleración": "quadrimomentum"
 
-		} 
+		}
+	}
 }
