@@ -2,7 +2,7 @@
 
 <rdf:RDF
 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
-xmlns:chapter="https://github.com/teatredefum/la-edad-red/tree/chapter-one/stories/"> 
+xmlns:chapter="https://github.com/teatredefum/la-edad-red/tree/stories/"> 
 
 <rdf:Description
  rdf:about="https://github.com/teatredefum/la-edad-red/tree/chapter-one/aleph">
