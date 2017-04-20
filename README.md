@@ -89,6 +89,17 @@ Idiomas
 - [ ] Japonés
 - [ ] Panyabí
 
+
+# Versin final en curso
+
+Hipersuperficies de presente:
+---------------------------
+
+- Leer historia en HTML, narrado por [MartínSantome.html](https://github.com/teatredefum/la-edad-red/blob/chapter-one/MartinSantome.xml).
+
+- Leer historia en RDF [capitulo.rdf](https://github.com/teatredefum/la-edad-red/blob/chapter-one/capitulo.rdf).
+
+
 # Legal
 
 ## Presupuesto
