@@ -1,0 +1,24 @@
+<aiml>
+  <category>
+    <pattern>Quiero leer...</pattern>
+    <template>¿Qué prefieres: ensayo novelado o novela de ensayos?</template>
+  </category>
+  <category>
+    <pattern>^ ensayo novelado ^</pattern>
+    <template>Tengo esta <a href="http://teatredefum.github.io/">La Edad Red</a>, neocontemporanismo mágico y chabots.</template>
+  </category>
+  <category>
+    <pattern>novela de ensayos</pattern>
+    <template>Tengo esta <a href="http://ismy.band/lakurrealidad">La Kurrealidad</a>, una novela en línea sobre la Edad Red.</template>
+  </category>
+  <category>
+    <pattern>Quiero escribir...</pattern>
+    <template>¡Escríbenos! ¿Aquí <a href="https://github.com/teatredefum/la-edad-red/pulls">Pulls de La Edad Red</a>?</template>
+  </category>
+  <category>
+    <pattern>Soy *</pattern>
+    <template>Hola <star/>
+      <think><set><name><star/></name></set></think>
+    </template>
+  </category>
+</aiml>
