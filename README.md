@@ -7,6 +7,19 @@ Esto es un proyecto literario para:
 
 - TEATRE DE FUM sala #mchd 
 
+
+# Versión final en curso
+
+Hipersuperficies de presente:
+---------------------------
+
+- Leer historia en HTML, narrado por [MartínSantome.html](https://github.com/teatredefum/la-edad-red/blob/chapter-one/MartinSantome.html)
+
+- Leer historia en RDF [capitulo.rdf](https://github.com/teatredefum/la-edad-red/blob/chapter-one/capitulo.rdf)
+
+- Historia interactiva [página 1.aiml](https://github.com/teatredefum/la-edad-red/blob/chapter-one/pagina-1.aiml)
+
+
 ## En el contexto de:
 
 - Obras de representación poscontemporáneas. Panecastia y vanguardia de escritura. Duración corta (menos 45 minutos). Escenografía estática (máximo tres cambios de fondo). Elenco escueto (máximo nueve actores). El texto debe presentar una escritura de vanguardia y panecástica.
