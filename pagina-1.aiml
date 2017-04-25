@@ -21,4 +21,12 @@
       <think><set><name><star/></name></set></think>
     </template>
   </category>
+  <category>
+    <pattern>*</pattern>
+    <template>
+      <think><set name="weburl">https://github.com/teatredefum/la-edad-red/search?q=</set></think>
+      <srai>XOPENWEBURL</srai>
+        Mira por ahí...
+    </template>
+  </category>
 </aiml>
