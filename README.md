@@ -1,6 +1,7 @@
 Versión galeradas (en proceso)
 https://teatredefum.github.io/la-edad-red/
 
+DESCONTINUADO EN FAVOR DE: https://notabug.org/aleph/LaKurrealidad
 ---------------------
 
 Esto es un proyecto literario para:
